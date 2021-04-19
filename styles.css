@@ -1,0 +1,41 @@
+@font-face {
+  font-family: LexendDeca;
+  src: url(fonts/LexendDeca-Regular.ttf);
+}
+
+
+
+
+body {
+	width: 1440px;
+}
+
+.main {
+	width: 60%;
+	height: 500px;
+	margin: auto;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.sedans {
+	width: 33.33%;
+	height: 100%;
+	float: left;
+	background: #e38826;
+
+}
+
+.suvs {
+	width: 33.33%;
+	Height: 100%;
+	float: left;
+	background: #006970;
+}
+
+.luxury {
+	width: 33.34%;
+	height: 100%;
+	float: left;
+	background: #004241;
+}
